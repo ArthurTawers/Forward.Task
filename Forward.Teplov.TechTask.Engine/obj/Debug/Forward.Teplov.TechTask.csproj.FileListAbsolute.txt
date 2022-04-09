@@ -1,0 +1,8 @@
+C:\Users\artur\Desktop\Новая папка\c#\Forward_Техническое задание\Forward.Teplov.TechTask.Engine\Forward.Teplov.TechTask.Engine\bin\Debug\Forward.Teplov.TechTask.Engine.exe.config
+C:\Users\artur\Desktop\Новая папка\c#\Forward_Техническое задание\Forward.Teplov.TechTask.Engine\Forward.Teplov.TechTask.Engine\bin\Debug\Forward.Teplov.TechTask.Engine.exe
+C:\Users\artur\Desktop\Новая папка\c#\Forward_Техническое задание\Forward.Teplov.TechTask.Engine\Forward.Teplov.TechTask.Engine\bin\Debug\Forward.Teplov.TechTask.Engine.pdb
+C:\Users\artur\Desktop\Новая папка\c#\Forward_Техническое задание\Forward.Teplov.TechTask.Engine\Forward.Teplov.TechTask.Engine\obj\Debug\Forward.Teplov.TechTask.csproj.AssemblyReference.cache
+C:\Users\artur\Desktop\Новая папка\c#\Forward_Техническое задание\Forward.Teplov.TechTask.Engine\Forward.Teplov.TechTask.Engine\obj\Debug\Forward.Teplov.TechTask.csproj.SuggestedBindingRedirects.cache
+C:\Users\artur\Desktop\Новая папка\c#\Forward_Техническое задание\Forward.Teplov.TechTask.Engine\Forward.Teplov.TechTask.Engine\obj\Debug\Forward.Teplov.TechTask.csproj.CoreCompileInputs.cache
+C:\Users\artur\Desktop\Новая папка\c#\Forward_Техническое задание\Forward.Teplov.TechTask.Engine\Forward.Teplov.TechTask.Engine\obj\Debug\Forward.Teplov.TechTask.Engine.exe
+C:\Users\artur\Desktop\Новая папка\c#\Forward_Техническое задание\Forward.Teplov.TechTask.Engine\Forward.Teplov.TechTask.Engine\obj\Debug\Forward.Teplov.TechTask.Engine.pdb
